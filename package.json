@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@distube/soundcloud": "^1.2.1",
+    "@distube/spotify": "^1.3.2",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.1.1",
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.3.0",
+    "libsodium-wrappers": "^0.7.10",
+    "mysql": "^2.18.1"
+  },
+  "name": "bot-rvrp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cagus17",
+  "license": "ISC",
+  "description": "![LOC](https://tokei.rs/b1/github/hongduccodedao/Music-Bot-Discord.js-v14?category=code)"
+}

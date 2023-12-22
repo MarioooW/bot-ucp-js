@@ -1,0 +1,18 @@
+{
+    "guildId": "1007170100949942302", 
+    "clientId": "1106163010067759166", 
+    "owner": "695464694516940870", 
+    "token": "MTEwNjE2MzAxMDA2Nzc1OTE2Ng.GM4svE.PUiRs9JgkowXzcd62rAHKNCb-1JelAFMHSCRc8", 
+    "colorDefault": "#ecc5c0",
+    "colorError": "#FF4949",
+
+
+    "CHANNEL_ID_REGISTER": "1102591259371114526",
+    "CHANNEL_ID_CLAIMCODE": "1102591259371114526",
+    "ROLE_ID": "1103994675662172190" ,
+
+    "HOST": "localhost",
+    "USERNAME": "root",
+    "PASSWORD": "",
+    "DATABASE": "revitali_rp"
+}
